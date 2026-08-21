@@ -1,4 +1,4 @@
-# Banc-Agent: Multi-Agent Insurance Underwriting Assistant
+# Bank-Agent: Multi-Agent Insurance Underwriting Assistant
 
 [](https://opensource.org/licenses/MIT)
 [](https://www.python.org/downloads/)
