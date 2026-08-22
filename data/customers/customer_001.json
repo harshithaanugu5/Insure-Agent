@@ -1,1 +1,11 @@
-
+{
+  "customer_id": "CUST001",
+  "age": 42,
+  "annual_income": 85000,
+  "coverage_amount": 500000,
+  "smoker": false,
+  "medical_conditions": [
+    "hypertension"
+  ],
+  "existing_policies": 1
+}
