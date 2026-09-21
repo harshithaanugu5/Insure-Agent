@@ -1,0 +1,9 @@
+{
+  "customer_name": "Jane Doe",
+  "age": 36,
+  "annual_income": 90000,
+  "requested_coverage": 450000,
+  "smoking_status": "non-smoker",
+  "medical_disclosure": "No major conditions reported.",
+  "policy_type": "auto"
+}
