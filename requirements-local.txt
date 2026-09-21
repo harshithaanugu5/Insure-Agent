@@ -1,0 +1,14 @@
+-r requirements.txt
+uvicorn
+streamlit
+pytest
+httpx
+scikit-learn
+chromadb
+sentence-transformers
+langgraph
+langchain
+langchain-community
+mlflow
+langfuse
+pymupdf

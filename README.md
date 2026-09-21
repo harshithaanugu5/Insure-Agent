@@ -521,6 +521,12 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+For the full local development and test environment, install the optional tooling as well:
+
+```bash
+pip install -r requirements-local.txt
+```
+
 ### 4. Configure Environment Variables
 
 Create a `.env` file based on `.env.example`.
@@ -550,6 +556,12 @@ For the API:
 ```bash
 uvicorn app.main:app --reload
 ```
+
+### Deploying the API to Vercel
+
+Vercel deploys the lightweight FastAPI API through `api/index.py`. The Streamlit interface is intended to run locally or on a Streamlit-compatible host; Vercel is used for the API deployment.
+
+After importing the repository into Vercel, deploy the project with the root directory unchanged. The API will be available at `/health`, `/api/policies`, and `/api/underwrite`.
 
 ---
 

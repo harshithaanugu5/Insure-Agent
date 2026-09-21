@@ -1,17 +1,4 @@
 fastapi
-uvicorn
-streamlit
 python-dotenv
 pydantic
-pytest
-httpx
 requests
-scikit-learn
-chromadb
-sentence-transformers
-langgraph
-langchain
-langchain-community
-mlflow
-langfuse
-pymupdf

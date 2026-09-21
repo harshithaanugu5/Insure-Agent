@@ -1,9 +1,11 @@
 from __future__ import annotations
 
+import os
+
 import requests
 import streamlit as st
 
-API_URL = "http://localhost:8001"
+API_URL = os.getenv("API_BASE_URL", "http://localhost:8000")
 
 st.set_page_config(page_title="Insure Agent", page_icon="🛡️")
 st.title("Insure Agent")
