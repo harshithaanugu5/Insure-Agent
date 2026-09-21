@@ -15,6 +15,15 @@ The platform is designed to demonstrate how modern **Agentic AI and Machine Lear
 
 ---
 
+## 🔗 Project Links
+
+- GitHub repository: https://github.com/harshithaanugu5/Insure-Agent
+- Live API: https://insure-agent-orkr.vercel.app
+- API health check: https://insure-agent-orkr.vercel.app/health
+- Local frontend: http://127.0.0.1:8501
+- Local API: http://127.0.0.1:8000
+
+  
 ## 🚀 Key Features
 
 ### 🤖 Multi-Agent Orchestration
